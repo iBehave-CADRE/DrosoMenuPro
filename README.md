@@ -22,6 +22,9 @@ A stimulus delivery device for head-fixed flies.
 | BNC Cables |  | [Link]() |  |  |  |
 | Calibration Button |  | [Link]() |  |  |  |
 
+Jumper Cables
+
+Button already on Shield
 
 ### Custom Designed Parts
 | Item | Link to File | Material | Amount | Price | Alternative | Notes |
@@ -40,10 +43,13 @@ A stimulus delivery device for head-fixed flies.
 
 | Item | Price (incl. 19% VAT) |
 | --- | --- |
-| Hardware Equipment | 19858,15 EUR |
-| Custom Designed Parts, Manufactured at CADRE |  |
-| 5 Full Days of Work (40 hrs) | 4880.- EUR* |
-| Accomodation and Travel Expenses (estimated with standard UKB rates) | 906.- EUR |
+| Hardware Equipment | ?? EUR |
+| Custom Designed Parts, Manufactured at CADRE | ?? EUR |
+| Hourly Rate | 129.14 EUR* |
+| Daily Rate (8h) | 993.54 EUR* |
+| Weekly Rate (40h) | 4967.70 EUR* |
+
+| Accomodation and Travel Expenses (estimated with standard UKB rates) | ?? EUR |
 | Total |  |
 
 \* Costs for work hours and consulting are pending final internal assessment.
