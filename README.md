@@ -1,12 +1,10 @@
 # DrosoMenuPro
 
-A stimulus delivery device for head-fixed flies.
+A stimulus delivery device for head-fixed flies. Can be remotely triggered via digital and analog inputs (any DAQ) or via serial communication (MATLAB, Python, Bonsai etc.).
 
 ![Feeding Device](images/FeedingDevice.png)
 
 ## Electronics Scheme
-
-
 
 ## Shopping List
 
@@ -32,12 +30,6 @@ Button already on Shield
 | BIT-Boy | [Link]() |  |  |  |  | For Debugging (should be in Lab already) |
 | Optical Post Bracket | [Link]() |  |  |  |  |  |
 | Stimulus Holder | [Link]() |  |  |  |  |  |
-
-
-
-
-
-
 
 ## Cost Estimation for Rundum-Sorglos-Paket
 
