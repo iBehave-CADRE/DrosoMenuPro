@@ -48,8 +48,7 @@ Button already on Shield
 | Hourly Rate | 129.14 EUR* |
 | Daily Rate (8h) | 993.54 EUR* |
 | Weekly Rate (40h) | 4967.70 EUR* |
-
-| Accomodation and Travel Expenses (estimated with standard UKB rates) | ?? EUR |
+| Accommodation and Travel Expenses (estimated with standard UKB rates) | ?? EUR |
 | Total |  |
 
 \* Costs for work hours and consulting are pending final internal assessment.
