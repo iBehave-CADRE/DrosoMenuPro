@@ -24,12 +24,9 @@ A stimulus delivery device for head-fixed flies. Can be remotely triggered via d
 | BNC Connectors | 1570975 - VQ | [Link](https://www.conrad.de/de/p/tru-components-lt-bnc-f-bnc-steckverbinder-buchse-gerade-50-1-st-1570975.html?insert=VQ) | 5 | 3,49 EUR | For initial prototype without case |
 | USB Cable | 1460360 - VQ | [Link](https://www.conrad.de/de/p/renkforce-usb-kabel-usb-3-2-gen1-usb-a-stecker-usb-c-stecker-1-00-m-schwarz-vergoldete-steckkontakte-rf-4381080-1460360.html?insert=VQ) | 1 | 7,49 EUR | For programming Arduino |
 | Arduino Proto Shield | 1969858 - VQ | [Link](https://www.conrad.de/de/p/arduino-proto-shield-entwicklungsboard-1969858.html?insert=VQ) | 1 | 14,59 EUR | For soldering cables etc. |
-| Jumper Kables Kit | 2481791 - VQ | [Link](https://www.conrad.de/de/p/tru-components-jumper-kabel-arduino-1x-drahtbruecken-buchse-1x-drahtbruecken-buchse-bunt-2481791.html?insert=VQ) | 1 | 4,79 EUR |  |
-| USB Cable | 2299844 - VQ | [Link](https://www.conrad.de/de/p/renkforce-jkmf403-jumper-kabel-arduino-banana-pi-raspberry-pi-40x-drahtbruecken-stecker-40x-drahtbruecken-buchse-30-2299844.html?insert=VQ) | 1 | 3,29 EUR |  |
+| Jumper Cables Kit | 2481791 - VQ | [Link](https://www.conrad.de/de/p/tru-components-jumper-kabel-arduino-1x-drahtbruecken-buchse-1x-drahtbruecken-buchse-bunt-2481791.html?insert=VQ) | 1 | 4,79 EUR |  |
+| Jumper Cables | 2299844 - VQ | [Link](https://www.conrad.de/de/p/renkforce-jkmf403-jumper-kabel-arduino-banana-pi-raspberry-pi-40x-drahtbruecken-stecker-40x-drahtbruecken-buchse-30-2299844.html?insert=VQ) | 1 | 3,29 EUR |  |
 | BNC Cables | N.A. | N.A. | N.A. | N.A. | If not available order more |
-
-> [!NOTE]
-> It would be beneficial to have the Optogenetics Upgrade ready at the same time to have the extra I/O ports for extra capacity. Then all the devices can be connected at the same time. 
 
 ### Custom Designed Parts
 | Item | Link to File | Material | Amount | Price | Alternative | Notes |
@@ -37,17 +34,3 @@ A stimulus delivery device for head-fixed flies. Can be remotely triggered via d
 | BIT-Boy | [Link]() |  |  |  |  | For Debugging (should be in Lab already) |
 | Optical Post Bracket | [Link]() |  |  |  |  |  |
 | Stimulus Holder | [Link]() |  |  |  |  |  |
-
-## Cost Estimation for Rundum-Sorglos-Paket
-
-| Item | Price (incl. 19% VAT) |
-| --- | --- |
-| Hardware Equipment | ?? EUR |
-| Custom Designed Parts, Manufactured at CADRE | ?? EUR |
-| Hourly Rate | 129.14 EUR* |
-| Daily Rate (8h) | 993.54 EUR* |
-| Weekly Rate (40h) | 4967.70 EUR* |
-| Accommodation and Travel Expenses (estimated with standard UKB rates) | ?? EUR |
-| Total |  |
-
-\* Costs for work hours and consulting are pending final internal assessment.
