@@ -17,13 +17,13 @@ bool Button2StateOld;
 bool Button2StateNew;
 
 //Defining a digital I/O pin for reading a BNC input. This input is used to move the stimulus to the fly (LOW) or away from the animal (HIGH) to the RestingPosition.
-#define BNCInputInOutPin 6
+#define BNCInputInOutPin 5
 //Defining variables for State Memory
 bool BNCInputInOutStateOld;
 bool BNCInputInOutStateNew;
 
 //Defining a digital I/O pin for reading a BNC input. This input is used to select between the do different stimuli (Low; stimulus 1, HIGH; stimulus 2)
-#define BNCInputPositionSelectPin 7
+#define BNCInputPositionSelectPin 6
 //Defining variables for State Memory
 bool BNCInputPositionSelectStateOld;
 bool BNCInputPositionSelectStateNew;
