@@ -29,7 +29,7 @@ bool BNCInputPositionSelectStateOld;
 bool BNCInputPositionSelectStateNew;
 
 //MicrostepSize for X-LSM50B is 0.1905 µm
-const float MicrostepSize = 0.1905; // in µm/step
+const float MicrostepSize = 0.047625; // in µm/step
 
 //Defining the absolute values for resting and out positions
 //those positions are setup specific and need to be adapted on a case to case basis
@@ -103,7 +103,7 @@ void setup() {
 
   Serial.println("Setting Knob Mode...");
   connection.genericCommand("set knob.enable 1", xAxisAddress);
-  connection.genericCommand("set knob.enable 2", zAxisAddress);
+  connection.genericCommand("set knob.enable 1", zAxisAddress);
   //Knob mode 0 is Velocity Mode 1 is Displacement Mode 2 is Force Mode
   //Set Knob mode to Displacement Mode
   connection.genericCommand("set knob.mode 1", xAxisAddress);
