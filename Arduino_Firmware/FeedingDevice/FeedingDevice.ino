@@ -28,8 +28,8 @@ bool BNCInputInOutStateNew;
 bool BNCInputPositionSelectStateOld;
 bool BNCInputPositionSelectStateNew;
 
-//MicrostepSize for X-LSM50B is 0.1905 µm
-const float MicrostepSize = 0.047625; // in µm/step
+//MicrostepSize for X-LSM050B and 100B is 0.1905 µm
+const float MicrostepSize = 0.1905; // in µm/step
 
 //Defining the absolute values for resting and out positions
 //those positions are setup specific and need to be adapted on a case to case basis
